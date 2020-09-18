@@ -12,7 +12,7 @@ use_local = False
 if use_local == True:
 	import ACME_temporal_services
 elif use_local == False:
-	protocol_v3 = requests.get("https://gist.githubusercontent.com/sixsixseven/2eea8a57ace806ad3f475f7dac2404dd/raw/ACME_temporal_services.py")
+	protocol_v3 = requests.get("https://raw.githubusercontent.com/PalPalash/time-travel/master/ACME_temporal_services.py")
 	localcache = open("ACME_temporal_services.py", "w")
 	localcache.write(protocol_v3.text)
 	localcache.close()
