@@ -5,7 +5,8 @@ I know it sound fake but it works ! So you got your dirty hands on this but this
 ## Requirements 
 All you need is python and a PC . 
 Run code by 
-```cd /d "folder"
+```
+cd /d "folder"
 python main.py
 ```
 
