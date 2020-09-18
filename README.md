@@ -16,7 +16,11 @@ from [main.py](https://github.com/PalPalash/time-travel/blob/master/main.py)
 #### YOU MUST RUN IT IN COMMAND PROMPT NOT IN POWERSHELL . POWERSHELL WILL NOT WORK . IT WILL GIVE ERRORS 
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/PalPalash/time-travel)
-
+<br>
+ :point_up_2: Open here if you cannot downlaod it then 
+ ```
+ python main.py
+ ```
 <b> 
   Please try it it took me 3 hours to bulid , if I made you laugh share it !
 </b>
