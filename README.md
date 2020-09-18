@@ -18,4 +18,5 @@ import secrets
 ```
 so on .........
 <br>
-BTW dont try to be smart and save the python files and ##then run it in Command Prompt . That will not work ! 
+### IMPORTANT !
+#### YOU MUST RUN IT IN COMMAND PROMPT NOT IN POWERSHELL . POWERSHELL WILL NOT WORK . IT WILL GIVE ERRORS 
