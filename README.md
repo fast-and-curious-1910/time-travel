@@ -21,4 +21,4 @@ from [main.py](https://github.com/PalPalash/time-travel/blob/master/main.py)
  ```
  python main.py
  ```
-## Please try it it took me 3 hours to bulid , if I made you laugh , please share it ! :relaxed:
+## Please try , it it took me 3 hours to bulid , if I made you laugh , please share it ! :relaxed:
