@@ -14,15 +14,9 @@ from [main.py](https://github.com/PalPalash/time-travel/blob/master/main.py)
 <br>
 ### IMPORTANT !
 #### YOU MUST RUN IT IN COMMAND PROMPT NOT IN POWERSHELL . POWERSHELL WILL NOT WORK . IT WILL GIVE ERRORS 
-<hr>
-
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/PalPalash/time-travel)
-<br>
-Click here :point_up: 
-<ol>
-<li>
-  Type python main.py
-  </li>
-</ol>
-And it should run 
+
+<b> 
+  Please try it it took me 3 hours to bulid , if I made you laugh share it !
+</b>
