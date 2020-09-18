@@ -4,7 +4,12 @@ I know it sound fake but it works ! So you got your dirty hands on this but this
 
 ## Requirements 
 All you need is python and a PC . 
-python and run code from [main.py](https://github.com/PalPalash/time-travel/blob/master/main.py) 
+Run code by 
+```cd /d "folder"
+python main.py
+```
+
+from [main.py](https://github.com/PalPalash/time-travel/blob/master/main.py) 
 <br>
 ### IMPORTANT !
 #### YOU MUST RUN IT IN COMMAND PROMPT NOT IN POWERSHELL . POWERSHELL WILL NOT WORK . IT WILL GIVE ERRORS 
