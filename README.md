@@ -15,16 +15,14 @@ from [main.py](https://github.com/PalPalash/time-travel/blob/master/main.py)
 ### IMPORTANT !
 #### YOU MUST RUN IT IN COMMAND PROMPT NOT IN POWERSHELL . POWERSHELL WILL NOT WORK . IT WILL GIVE ERRORS 
 <hr>
-#### Open In GitPod 
+
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/PalPalash/time-travel)
+<br>
 Click here :point_up: 
 <ol>
 <li>
-  Type 
-  
-  python main.py
-  
+  Type python main.py
   </li>
 </ol>
 And it should run 
